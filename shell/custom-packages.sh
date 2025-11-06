@@ -46,3 +46,6 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-taskplan luci-i18n-taskplan-zh-cn"
 # Easytier
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
+
+#高级卸载0.9.7
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-uninstall"
